@@ -1,4 +1,4 @@
-# Save this code in a file named 22075353_assignment2.py
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -108,5 +108,5 @@ plt.xlabel('Human Resource', fontweight='bold')
 
 plt.ylabel('Count', fontweight='bold')
 
-plt.savefig("22075353_human_resources.png", dpi=300)
+
 plt.show()
